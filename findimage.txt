@@ -1,3 +1,5 @@
+//Each number in the end is mapped to an image using an excel spreadsheet.  This program allows a single keyword search and a //group search depending on the user's preference.
+
 2012 spring graduation commencement	Tracy Bryan Thomas Boulton Joseph Rode Professor Finance Management	Sally A. Seifert-Cohen Scholarship alumna gift male female alumni;1
 2012 spring graduation commencement	Tracy Bryan Thomas Boulton Joseph Rode Professor Finance Management	Sally A. Seifert-Cohen Scholarship alumna gift male female alumni;2
 2012 spring graduation commencement	Tracy Bryan Thomas Boulton Joseph Rode Professor Finance Management	Sally A. Seifert-Cohen Scholarship alumna gift male female alumni;3
